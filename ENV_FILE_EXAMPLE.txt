@@ -1,0 +1,3 @@
+SEPOLIA_RPC_URL="https://sepolia.drpc.org"
+PRIVATE_KEY="Blockchain-yeppi"
+ETHERSCAN_API_KEY="blockchain-yeppi" 
